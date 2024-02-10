@@ -6,7 +6,7 @@
 * [Nils Niehaus](Courseware)
 * [Saskia Schäfer](Courseware)
 * [Jan Eric Wiemann](Courseware)
-* [Fabian Kirsch][https://github.com/Kirschberg32/]
+* [Fabian Kirsch](https://github.com/Kirschberg32/)
 
 ## Schedule:
  - 10.02 - 13.02 Collect experimental Data
