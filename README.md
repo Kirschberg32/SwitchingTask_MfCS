@@ -2,9 +2,8 @@
  Group Project for the Course Modeling in cognitive science. We Schoose Task 2 which is a switching Task
 
 ## Schedule:
- 10.02 - 13.02 Collect experimental Data
- 
- 13.02 - Talk about experimental Data
+ - 10.02 - 13.02 Collect experimental Data
+ - 13.02 - Talk about experimental Data
  
 
 ## Files: 
