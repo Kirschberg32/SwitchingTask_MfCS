@@ -1,6 +1,13 @@
 # SwitchingTask_MfCS
  Group Project for the Course Modeling in cognitive science. We Schoose Task 2 which is a switching Task
 
+## Group
+* [Laura Kinderknecht](Courseware)
+* [Nils Niehaus](Courseware)
+* [Saskia Schäfer](Courseware)
+* [Jan Eric Wiemann](Courseware)
+* [Fabian Kirsch][https://github.com/Kirschberg32/]
+
 ## Schedule:
  - 10.02 - 13.02 Collect experimental Data
  - 13.02 - Talk about experimental Data
