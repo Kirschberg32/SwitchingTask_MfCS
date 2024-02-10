@@ -2,10 +2,10 @@
  Group Project for the Course Modeling in cognitive science. We Schoose Task 2 which is a switching Task
 
 ## Group
-* [Laura Kinderknecht](Courseware)
-* [Nils Niehaus](Courseware)
-* [Saskia Schäfer](Courseware)
-* [Jan Eric Wiemann](Courseware)
+* [Laura Kinderknecht](https://github.com/LauraKinderknecht)
+* [Nils Niehaus](https://github.com/iNxls)
+* [Saskia Schäfer](https://github.com/sasschaefer)
+* [Jan Eric Wiemann](https://github.com/janerykh)
 * [Fabian Kirsch](https://github.com/Kirschberg32/)
 
 ## Schedule:
