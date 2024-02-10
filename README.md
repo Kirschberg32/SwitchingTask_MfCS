@@ -10,8 +10,10 @@
 ### Folders:
 * [Courseware](Courseware): Contains pdf files from Courseware in studIp
   * [Group_Project.pdf](Courseware/Group_Project.pdf): Description of group project
-  * [Group_Project_Experiment_2.pdf](Courseware/Group_Project_Experiment_2.pdf): Description of Switching_Taskfor the project
+  * [Group_Project_Experiment_2.pdf](Courseware/Group_Project_Experiment_2.pdf): Description of Switching_Task for the project
+  * [Template_Research_Article.pdf](Courseware/Template_Research_Article.pdf): Research article template
+  * [Template_Video.pdf](Courseware/Template_Video.pdf): Video Template. Questions we should answer in the Video
 
 
 ### Files:
-* [algorithm.py](algorithm.py): Contains a class RecommenderAlgorithm with all methods that are needed for the recommendation algorithm (also data preprocessing etc. ).
+* [Template_Group_Project.ipynb](Template_Group_Project.ipynb): Jupyter Notebook template for the project
