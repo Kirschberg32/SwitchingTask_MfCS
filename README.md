@@ -6,7 +6,7 @@
 * [Nils Niehaus](https://github.com/iNxls)
 * [Saskia Schäfer](https://github.com/sasschaefer)
 * [Jan Eric Wiemann](https://github.com/janerykh)
-* [Fabian Kirsch](https://github.com/Kirschberg32/)
+* [Hanna Kirsch](https://github.com/hkirsch94/)
 
 ## Schedule:
  - 10.02 - 13.02 Collect experimental Data
